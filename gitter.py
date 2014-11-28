@@ -13,3 +13,6 @@ print (tm)
 print ("op naar een einde!")
 
 print ("woop woop")
+
+
+print ( "dit is uit patch 3")
