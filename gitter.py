@@ -13,3 +13,5 @@ print (tm)
 print ("op naar een einde!")
 
 print ("woop woop")
+
+print ( "dit is een test uit 2")
