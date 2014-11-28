@@ -14,5 +14,5 @@ print ("op naar een einde!")
 
 print ("woop woop")
 
-
+print ( "dit is uit patch 3")
 print ( "dit is een test uit 2")
