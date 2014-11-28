@@ -6,10 +6,10 @@ t = 4
 tm = 2*(a+t)+4*(c+g)
 
 print (tm)
-# shrek is drek
-#je oma
-#sdjlfkajsfboiu
+
 
 # test commentaar
 
 print ("op naar een einde!")
+
+print ("woop woop")
